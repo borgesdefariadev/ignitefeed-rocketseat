@@ -9,4 +9,4 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
   </React.StrictMode>
 );
 
-// finished on january 19th 2023
+// finished on january 19th 2023.
